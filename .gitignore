@@ -1,3 +1,5 @@
+### Application ###
+*.pdf
 
 # Created by https://www.gitignore.io/api/appengine,macos,node,osx,textmate,vagrant,vim,webstorm
 
